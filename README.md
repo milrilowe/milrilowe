@@ -4,8 +4,6 @@
 
 - Full-Stack Software Engineer
 - B.A. Philosophy & Linguistics - University of Maryland
-- Certificate, Advanced Software Engineering - Hack Reactor
-
 
 ### Languages | Frameworks | Tools
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
